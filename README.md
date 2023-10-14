@@ -1,6 +1,6 @@
 # p5-template-global
 
-Vitejs 로컬버서를 활용한 p5js 스케치 템플릿 코드. A barebone p5.js template in global mode using Vite.js.
+Vitejs 로컬버서를 활용한 p5js 스케치 템플릿 코드. ES6 모듈과 타입스크립트를 사용한 템플릿은 [p5-template](https://github.com/dizicoder/p5-template)를 사용하자. A barebone p5.js template in global mode using Vite.js. Use [p5-template](https://github.com/dizicoder/p5-template) for an ES6 module & TypeScript-ready template.
 
 ## 준비물
 - [Node.js](https://nodejs.org/en) 설치가 필요하다.
