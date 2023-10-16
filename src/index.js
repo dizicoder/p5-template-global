@@ -3,7 +3,11 @@ function setup() {
 }
 
 function draw() {
-  background(200);
+  background(50);
 
   ellipse(width / 2, height / 2, 300, 300);
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
